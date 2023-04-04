@@ -4,7 +4,7 @@
 
 tl;dr 1: Jupyter notebooks for each of the (numbered) projects below are available in the accompanying folder.
 
-tl;dr 2: A YouTube playlist where each student group explains their work is available here: [https://www.youtube.com/playlist?list=PLBAf4P2YTnSU7mAci2482dBqK0Q5sZs7X](Link to YouTube playlist)
+tl;dr 2: A YouTube playlist where each student group explains their work is available here: [(Link to YouTube playlist)](https://www.youtube.com/playlist?list=PLBAf4P2YTnSU7mAci2482dBqK0Q5sZs7X)
 
 - Project topics have been decided by the instructor keeping the match with our course content in mind. No changes are permitted in the project topics as of now.
 - Total strength is 64, so we will have 12 groups of 5 people each and 1 group of 4 people
