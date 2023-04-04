@@ -1,4 +1,4 @@
-# PH444_2023
+## PH 421 Photonics: Student Projects (2022)
 ### **Instructor: Professor Anshuman Kumar, Physics Department, IIT Bombay**
 
 Course PH 444: Electromagnetic Theory
@@ -24,10 +24,9 @@ Requirements:
   - Quality of presentation (eg. motivation, breaking down the problem, conclusion)
   - Reproducing parts of the paper (i.e. your executable paper (iPython notebook) demo) -- this component has the highest weightage
 
-|
- | **Topic** | **Students** |
+|**No**  | **Topic** | **Students** |
 | --- | --- | --- |
-| 1 | The complex Maxwell stress tensor theorem: A novel scenery underlying electromagnetic optical forces | Rishank Meshram (200260042)Kaushik Dhandekar (200260023)Hemanth Reddy (200260013)Piyush Mourya( 200260037)Lokesh Mishra (200260026) |
+| 1 | The complex Maxwell stress tensor theorem: A novel scenery underlying electromagnetic optical forces | Rishank Meshram (200260042) - Kaushik Dhandekar (200260023) - Hemanth Reddy (200260013) - Piyush Mourya( 200260037)Lokesh Mishra (200260026) |
 | 2 | Conservation of momentum in photonic time-varying media | Rhishabh Suneeth 200260040Nirmal Solanki 200260034Nidhi Shaw 200260033Abhishek Anand 200260002Kapil Bhagat 200260022 |
 | 3 | Solutions to axion electrodynamics in various geometries | Abeer Mishra (200260001)Alapati Tharaka Rama Chowdary (200260005)Aryaman Mihir Seth (200260010)Divyansh Tiwari (200020049)Mayank Agrawal (200260028) |
 | 4 | On the question of magnetic monopoles | Nishita (180260023)Anubhav Chandrakar (200260007 )Bhavya Singhal (200010014)Harsith R (200260020)Aneesh Anand Kamat (200260006) |
